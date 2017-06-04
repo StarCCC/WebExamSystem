@@ -1,0 +1,61 @@
+[ 2017-02-23T11:47:20+08:00 ] 127.0.0.1 127.0.0.1 GET /tp5/public/
+[ log ] 127.0.0.1:88/tp5/public/ [运行时间：0.105190s][吞吐率：9.51req/s] [内存消耗：2,397.98kb] [文件加载：38]
+[ info ] [ LANG ] F:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/tp5/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh,zh-CN;q=0.8,zh-TW;q=0.6',
+  'cookie' => 'PHPSESSID=b78s555oik3divf5fp2e8cgm02',
+  'dnt' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-02-23T13:12:48+08:00 ] 127.0.0.1 127.0.0.1 GET /tp5/public/
+[ log ] 127.0.0.1:88/tp5/public/ [运行时间：0.180403s][吞吐率：5.54req/s] [内存消耗：2,398.12kb] [文件加载：38]
+[ info ] [ LANG ] F:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/tp5/',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh,zh-CN;q=0.8,zh-TW;q=0.6',
+  'cookie' => 'PHPSESSID=b78s555oik3divf5fp2e8cgm02',
+  'dnt' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ F:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
